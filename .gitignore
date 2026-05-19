@@ -1,0 +1,7 @@
+log.html
+report.html
+output.xml
+*.png
+__pycache__/
+.vscode/
+.robotframework-ls/
