@@ -24,6 +24,9 @@ https://www.sastabaz.com
 
 ## Framework Structure Followed
 
+## Framework Structure Followed
+
+```plaintext
 qa-automation-framework/
 │
 ├── resources/
@@ -44,6 +47,7 @@ qa-automation-framework/
 │
 ├── README.md
 └── .gitignore
+```
 
 ## Features
 
