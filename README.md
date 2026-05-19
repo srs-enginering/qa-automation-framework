@@ -13,6 +13,17 @@ The framework supports:
 Target website used for practice:
 https://www.sastabaz.com
 
+## Framework Design
+
+The framework follows a modular hybrid architecture using:
+
+- Variables separation
+- Reusable keyword layer
+- Screenshot management
+- Centralized resources
+- Scalable folder structure
+- POM-oriented design
+
 ## Tech Stack
 
 - Robot Framework
@@ -32,6 +43,7 @@ qa-automation-framework/
 ├── resources/
 │   ├── data/
 │   ├── keywords/
+|   |   |──homepage_keywords.robot
 │   ├── locators/
 │   └── variables/
 │
@@ -57,6 +69,9 @@ qa-automation-framework/
 - Reusable framework structure
 - HTML report generation
 - Git version control integration
+- Reusable keyword-driven framework
+- Modular automation architecture
+- Page Object Model (POM) foundation
 
 ## How To Execute
 
